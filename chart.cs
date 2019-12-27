@@ -38,3 +38,6 @@
             chart1.ChartAreas.Add(area1);
             chart1.Series.Add(seriesLine);
             chart1.Series.Add(seriesLine2);
+
+
+https://docs.microsoft.com/en-us/dotnet/desktop-wpf/fundamentals/xaml
